@@ -1,3 +1,12 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
 ### Godot ###
 # Godot 4+ specific ignores
 .godot/
